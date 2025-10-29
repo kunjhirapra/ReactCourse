@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Package manager files
+package-lock.json
+**/package-lock.json
+
+# Build outputs
+dist/
+**/dist/
+
+# Development
+.vite/
+**/.vite/
+
+# Editor
+.vscode/
+**/.vscode/
+
+# Cache
+.eslintcache
+**/.eslintcache
