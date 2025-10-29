@@ -1,4 +1,6 @@
-# Course Material and FAQ for the Ultimate React Course
+# This is not my Cource material it is provided By jonas schmedthmann i am just using public repo because i am not allowed to add a collaborator (in this case my Office account). Hence the public Repo
+
+## Course Material and FAQ for the Ultimate React Course
 
 This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
 
